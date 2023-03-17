@@ -2,4 +2,4 @@
 - 👀 I’m interested in Computer Hardware, Software Design, Embedded Systems and Blockchains.
 - 🌱 I’m currently learning Computer and Networking Architectures.
 - 💞️ I’m looking to collaborate on Start-up ideas and projects.
-- 📫 How to reach me:   email - 0xobat@proton.me  url:0xobat.com
+- 📫 How to reach me:   email - 0xobat@proton.me  url: 0xobat.com
