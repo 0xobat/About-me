@@ -1,4 +1,4 @@
-## 👋 Hey, I’m @0xobat ([Twitter](https://twitter.com/0xobat))
+### 👋 Hey, I’m @0xobat ([Twitter](https://twitter.com/0xobat))
 
 - 🧠 Engineer working at the intersection of hardware and software systems design.  
 - 🔬 Passionate about SaaS development, company design and how machines talk to each other.  
